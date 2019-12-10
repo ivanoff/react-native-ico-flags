@@ -14,9 +14,9 @@ import Icon from 'react-native-ico-flags';
 render() {
     return (
         <Fragment>
-          <Icon name="home" />
-          <Icon name="file" height="40" width="40" />
-          <Icon name="smile" color="red" />
+          <Icon name="italy" />
+          <Icon name="brazil" height="40" width="40" />
+          <Icon name="zambia" color="red" />
         </Fragment>
     );
 }
