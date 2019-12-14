@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Flags Icons](static/flags.md)
+- [List of Flags Icons](http://ico.simpleness.org/pack/flags)
 
 ## Installation
 
