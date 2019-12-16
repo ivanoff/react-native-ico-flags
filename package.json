@@ -3,9 +3,8 @@
   "version": "2.1.1",
   "description": "flags Icons for React Native",
   "main": "src/index.js",
-  "module": "src/index.js",
   "dependencies": {
-    "react-svg-main": "^0.1.2"
+    "react-svg-main": "^0.2.2"
   },
   "repository": {
     "type": "git",
