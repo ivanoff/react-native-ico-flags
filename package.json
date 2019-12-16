@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-flags",
-  "version": "2.1.1",
+  "version": "2.2.1",
   "description": "flags Icons for React Native",
   "main": "src/index.js",
   "dependencies": {
