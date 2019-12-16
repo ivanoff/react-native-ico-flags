@@ -1,8 +1,8 @@
-# flags Icons for React Native
+# Flags Icons for React Native
 
 ### react-native-ico-flags
 
-369 Icons
+260 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of flags Icons](http://ico.simpleness.org/pack/flags)
+- [List of Flags Icons](http://ico.simpleness.org/pack/flags)
 
 ## Installation
 
