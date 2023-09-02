@@ -12,6 +12,10 @@
 
 ## Usage
 
+You can use two-letter country codes, based on the ISO 3166-1 alpha-2 standard.
+
+List of codes [here](./src/synonyms)
+
 ```
 import Icon from 'react-native-ico-flags';
 
