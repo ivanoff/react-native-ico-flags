@@ -14,7 +14,7 @@
 
 You can use two-letter country codes, based on the ISO 3166-1 alpha-2 standard.
 
-List of codes [here](./src/synonyms)
+List of codes [here](./src/synonyms.js)
 
 ```
 import Icon from 'react-native-ico-flags';
@@ -85,7 +85,7 @@ badge | no | | badge object | {value: 'A', fontSize: 25, radius: 22, position:'t
 
 You can use two-letter country codes, based on the ISO 3166-1 alpha-2 standard.
 
-List of codes [here](./src/synonyms)
+List of codes [here](./src/synonyms.js)
 
 ## Icons Made by
 
