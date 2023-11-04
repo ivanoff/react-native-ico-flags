@@ -1,11 +1,11 @@
 {
   "name": "react-native-ico-flags",
-  "version": "4.1.5",
+  "version": "5.1.2",
   "description": "Flags Icons for React Native",
   "main": "src/index.jsx",
   "types": "typings.d.ts",
   "dependencies": {
-    "react-svg-main": "^3.0.1"
+    "react-svg-main": "^4.0.1"
   },
   "repository": {
     "type": "git",

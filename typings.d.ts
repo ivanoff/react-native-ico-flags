@@ -262,7 +262,33 @@ declare module 'react-native-ico-flags' {
       'china' |
       'united-kingdom';
 
+    type iconColors = '#0052B4' |
+      '#2E52B2' |
+      '#333333' |
+      '#338AF3' |
+      '#496E2D' |
+      '#4A1F63' |
+      '#6DA544' |
+      '#751A46' |
+      '#786145' |
+      '#818085' |
+      '#91DC5A' |
+      '#A2001D' |
+      '#ACABB1' |
+      '#BDBCC1' |
+      '#D80027' |
+      '#DEDDE0' |
+      '#F0F0F0' |
+      '#F3F3F3' |
+      '#FCFCFC' |
+      '#FF9811' |
+      '#FFDA44' |
+      '#FFEACF' |
+      '#FFFFFF';
+
     type backgroundType = 'circle' | 'rect' | 'button';
+
+    type colorsType = Record<iconColors, string>;
 
     type positionType = 'top' | 'bottom' | 'right' | 'left' |
       'top_right' | 'top_left' | 'bottom_right' | 'bottom_left';
@@ -279,6 +305,7 @@ declare module 'react-native-ico-flags' {
       fontSize?: string;
       position?: positionType;
       color?: string;
+      colors: colorsType;
       backgroundColor?: string;
       radius?: number;
     };
@@ -288,6 +315,7 @@ declare module 'react-native-ico-flags' {
       width?: number;
       height?: number;
       color?: string;
+      colors: colorsType;
       stroke?: number;
       background?: backgroundType | backgroundTypeObj;
       badge?: number | string | badgeTypeObj;
