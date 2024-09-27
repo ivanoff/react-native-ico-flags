@@ -1029,6 +1029,27 @@ module.exports = {
 <rect x="341.337" y="85.331" style="fill:#D80027;" width="170.663" height="341.337"/>
 </svg>
 `,
+	'cabo-verde': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<rect y="85.331" style="fill:#0052B4;" width="512" height="341.337"/>
+<rect y="322.777" style="fill:#D80027;" width="512" height="22.261"/>
+<g>
+	<rect y="300.516" style="fill:#F0F0F0;" width="512" height="22.261"/>
+	<rect y="345.038" style="fill:#F0F0F0;" width="512" height="22.261"/>
+</g>
+<g>
+	<polygon style="fill:#FFDA44;" points="180.384,261.272 183.388,270.521 193.113,270.521 185.246,276.236 188.251,285.484    180.384,279.769 172.517,285.484 175.522,276.236 167.656,270.521 177.38,270.521  "/>
+	<polygon style="fill:#FFDA44;" points="180.384,382.332 183.388,391.579 193.113,391.579 185.246,397.294 188.251,406.542    180.384,400.827 172.517,406.542 175.522,397.294 167.656,391.579 177.38,391.579  "/>
+	<polygon style="fill:#FFDA44;" points="124.033,341.389 127.037,350.638 136.762,350.638 128.896,356.353 131.9,365.601    124.033,359.886 116.166,365.601 119.171,356.353 111.304,350.638 121.029,350.638  "/>
+	<polygon style="fill:#FFDA44;" points="145.557,273.378 148.561,282.626 158.286,282.626 150.42,288.342 153.424,297.59    145.557,291.874 137.69,297.59 140.695,288.342 132.828,282.626 142.553,282.626  "/>
+	<polygon style="fill:#FFDA44;" points="111.304,311.462 121.027,311.463 124.032,302.214 127.037,311.462 136.762,311.461    128.895,317.177 131.9,326.427 124.032,320.711 116.166,326.424 119.17,317.177  "/>
+	<polygon style="fill:#FFDA44;" points="137.69,392.671 140.695,383.425 132.827,377.708 142.552,377.708 145.557,368.46    148.562,377.707 158.286,377.707 150.419,383.423 153.423,392.672 145.556,386.956  "/>
+	<polygon style="fill:#FFDA44;" points="236.714,341.389 233.71,350.638 223.986,350.638 231.851,356.353 228.847,365.601    236.714,359.886 244.581,365.601 241.576,356.353 249.443,350.638 239.718,350.638  "/>
+	<polygon style="fill:#FFDA44;" points="215.19,273.378 212.186,282.626 202.461,282.626 210.327,288.342 207.323,297.59    215.19,291.874 223.057,297.59 220.052,288.342 227.919,282.626 218.194,282.626  "/>
+	<polygon style="fill:#FFDA44;" points="249.443,311.462 239.721,311.463 236.715,302.214 233.71,311.462 223.986,311.461    231.853,317.177 228.847,326.427 236.715,320.711 244.581,326.424 241.577,317.177  "/>
+	<polygon style="fill:#FFDA44;" points="223.057,392.671 220.052,383.425 227.919,377.708 218.195,377.708 215.19,368.46    212.185,377.707 202.461,377.707 210.328,383.423 207.324,392.672 215.191,386.956  "/>
+</g>
+</svg>
+`,
 	'cape-verde': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <rect y="85.331" style="fill:#0052B4;" width="512" height="341.337"/>
 <rect y="322.777" style="fill:#D80027;" width="512" height="22.261"/>
@@ -2165,7 +2186,7 @@ module.exports = {
 <path style="fill:#FFDA44;" d="M376.367,247.24l17.899-23.677l-17.759-13.424l-11.838-8.949l-49.988,66.129  c-8.74-2.775-18.651,0.063-24.495,7.795c-7.414,9.808-5.473,23.768,4.334,31.182c9.808,7.414,23.768,5.473,31.182-4.335  c5.845-7.731,5.871-18.041,0.817-25.692l32.073-42.43L376.367,247.24z M313.863,293.011c-2.471,3.27-7.125,3.916-10.394,1.446  c-3.27-2.472-3.916-7.126-1.445-10.395c2.471-3.268,7.125-3.916,10.395-1.445C315.687,285.088,316.334,289.743,313.863,293.011z"/>
 </svg>
 `,
-	'tubalu': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	'tuvalu': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <rect y="85.333" style="fill:#338AF3;" width="512" height="341.337"/>
 <g>
 	<polygon style="fill:#FFDA44;" points="321.691,333.909 325.375,345.247 337.296,345.247 327.652,352.253 331.336,363.591    321.691,356.584 312.047,363.591 315.731,352.253 306.087,345.247 318.008,345.247  "/>
@@ -2357,7 +2378,7 @@ module.exports = {
 </g>
 </svg>
 `,
-	'marshall-island': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	'marshall-islands': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <rect y="85.337" style="fill:#0052B4;" width="512" height="341.326"/>
 <g>
 	<polygon style="fill:#F0F0F0;" points="233.839,185.115 212.995,194.918 224.095,215.105 201.462,210.775 198.594,233.639    182.829,216.823 167.063,233.639 164.196,210.775 141.562,215.105 152.662,194.918 131.819,185.115 152.662,175.31    141.562,155.125 164.195,159.453 167.064,136.589 182.829,153.405 198.594,136.589 201.462,159.453 224.096,155.125    212.996,175.311  "/>
@@ -2448,7 +2469,7 @@ module.exports = {
 <path style="fill:#FFDA44;" d="M300.522,189.22c0-12.295-9.966-22.261-22.261-22.261c-5.703,0-10.901,2.146-14.84,5.672v-13.093  h7.421v-14.84h-7.421v-7.421h-14.84v7.421h-7.421v14.84h7.421v13.093c-3.94-3.526-9.138-5.672-14.841-5.672  c-12.295,0-22.261,9.966-22.261,22.261c0,6.591,2.867,12.512,7.421,16.589v13.093h74.203v-13.093  C297.655,201.732,300.522,195.812,300.522,189.22z"/>
 </svg>
 `,
-	'northen-cyprus': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	'northern-cyprus': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <rect y="85.331" style="fill:#F0F0F0;" width="512" height="341.337"/>
 <g>
 	<polygon style="fill:#D80027;" points="234.16,221.076 248.163,240.372 270.84,233.018 256.816,252.298 270.818,271.595    248.147,264.213 234.122,283.493 234.136,259.652 211.467,252.271 234.145,244.917  "/>
@@ -2493,7 +2514,7 @@ module.exports = {
 <rect y="312.888" width="512" height="113.775"/>
 </svg>
 `,
-	'uzbekistn': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	'uzbekistan': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <rect y="85.337" style="fill:#D80027;" width="512" height="341.326"/>
 <rect y="322.783" style="fill:#6DA544;" width="512" height="103.88"/>
 <rect id="SVGCleanerId_0" y="85.337" style="fill:#338AF3;" width="512" height="104.515"/>
