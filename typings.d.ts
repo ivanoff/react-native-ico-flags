@@ -1,5 +1,5 @@
 declare module 'react-native-ico-flags' {
-    import { ReactNode } from 'react';
+    import { ReactElement } from 'react';
     import { SvgProps, AdditionalProps } from 'react-native-svg';
 
     type iconNames = 'ethiopia' |
@@ -315,13 +315,13 @@ declare module 'react-native-ico-flags' {
       width?: number;
       height?: number;
       color?: string;
-      colors: colorsType;
+      colors?: colorsType;
       stroke?: number;
       background?: backgroundType | backgroundTypeObj;
       badge?: number | string | badgeTypeObj;
     }
 
-    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactNode;
+    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactElement;
 
     export { iconNames };
     export default Icon;

@@ -1,0 +1,22 @@
+# Miscellaneous
+#
+.DS_Store
+thumbs.db
+__MACOSX
+
+# Node
+#
+logs
+*.log
+npm-debug.log*
+node_modules
+
+# Editor / IDE
+#
+.vscode
+.history
+.idea
+
+# GitHub repo assets
+#
+static
