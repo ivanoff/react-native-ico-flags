@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-flags",
-  "version": "5.1.2",
+  "version": "6.2.1",
   "description": "Flags Icons for React Native",
   "main": "src/index.jsx",
   "types": "typings.d.ts",
