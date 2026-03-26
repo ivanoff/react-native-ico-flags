@@ -4,7 +4,7 @@
 
 259 Vector Icons for React Native
 
-<img src="./static/slovenia.png" alt="slovenia" width="150" height="150"> <img src="./static/puerto-rico.png" alt="puerto-rico" width="150" height="150"> <img src="./static/mozambique.png" alt="mozambique" width="150" height="150">
+<img src="./static/senegal.png" alt="senegal" width="150" height="150"> <img src="./static/suriname.png" alt="suriname" width="150" height="150"> <img src="./static/australia.png" alt="australia" width="150" height="150">
 
 ## List of icons
 
@@ -20,14 +20,14 @@ import Icon from 'react-native-ico-flags';
 render() {
     return (
         <>
-          <Icon name="slovenia" />
-          <Icon name="puerto-rico" height="40" width="40" />
-          <Icon name="mozambique" color="red" />
-          <Icon name="mozambique" colors={{ "#000000": "#FFFFFF" }} />
-          <Icon name="puerto-rico" badge="10" />
-          <Icon name="puerto-rico" badge={{value: 'A', fontSize: 25, radius: 22, position:'top_left', color:'orange', backgroundColor:'blue'}}/>
-          <Icon name="slovenia" background="circle" />
-          <Icon name="slovenia" background={{ type: "button", color: 'green' }} />
+          <Icon name="senegal" />
+          <Icon name="suriname" height="40" width="40" />
+          <Icon name="australia" color="red" />
+          <Icon name="australia" colors={{ "#000000": "#FFFFFF" }} />
+          <Icon name="suriname" badge="10" />
+          <Icon name="suriname" badge={{value: 'A', fontSize: 25, radius: 22, position:'top_left', color:'orange', backgroundColor:'blue'}}/>
+          <Icon name="senegal" background="circle" />
+          <Icon name="senegal" background={{ type: "button", color: 'green' }} />
         </>
     );
 }
@@ -54,7 +54,9 @@ npm install --save react-native-ico-flags react-native-svg
 react-native link react-native-svg
 ```
 
-### pod install ( for iOS )
+`react-native-svg` is a peer dependency. Install a current version in the app so the package uses the app-level native module instead of pulling in an older nested copy.
+
+### pod install (for iOS)
 
 ```
 cd ios && pod install && cd ..
@@ -68,9 +70,9 @@ Returns a SvgXml icon by name and group.
 
  name | optional | default value | description | examples
 ------|----------|---------------|-------------|---------
-name | no |  | name of icon | "slovenia"
+name | no |  | name of icon | "senegal"
 color | yes | | line color, css style | "#00ff00", "#0f0", "green"
-colors | yes | | replace colors | {"#FFFFFF": "#000000"} // white to black
+colors | yes | | replace colors | {"#FFFFFF": "#000000", "#f00": "#00f"} // white to black, red to blue
 width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 background | yes | | background type | "circle"

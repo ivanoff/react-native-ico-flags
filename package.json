@@ -1,15 +1,20 @@
 {
   "name": "react-native-ico-flags",
-  "version": "6.4.1",
+  "version": "7.0.1",
   "description": "Flags Icons for React Native",
   "main": "src/index.jsx",
   "types": "typings.d.ts",
   "dependencies": {
-    "react-svg-main": "^4.0.1"
+    "react-svg-main": "^4.1.1"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-native": ">=0.72",
+    "react-native-svg": ">=15"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ivanoff/react-native-ico-flags.git"
+    "url": "git+https://github.com/ivanoff/react-native-ico-flags.git"
   },
   "keywords": [
     "React",
